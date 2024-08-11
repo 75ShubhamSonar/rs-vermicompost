@@ -108,7 +108,7 @@ margin-right: 40px;
 .text-content{
     width:40%;
     height: 680px;
-    background-image: url("text-back.jpg");
+    background-image: url("img/text-back.jpg");
     object-fit: cover;
 }
 #text{
