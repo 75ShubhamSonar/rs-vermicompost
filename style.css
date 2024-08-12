@@ -478,8 +478,8 @@ ul{
         flex-direction: column;
     }
     .logo img{
-    width: 70px;
-    height:90px;
+    width: 90px;
+    height:110px;
     padding:1rem;
     }
     .log-lang select{
