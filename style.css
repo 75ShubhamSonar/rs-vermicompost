@@ -472,7 +472,7 @@ ul{
 
 @media(max-width:768px){
     .header{
-	    height:120px;
+	    height:100px;
     }
     .content{
         flex-direction: column;
