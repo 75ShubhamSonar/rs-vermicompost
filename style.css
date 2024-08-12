@@ -471,31 +471,28 @@ ul{
 
 
 @media(max-width:768px){
-    .header{
-	    height:100px;
-	    
+    .outer-available{
+        height: 900px;
+       
+        
     }
     .content{
         flex-direction: column;
     }
     .logo img{
-    width: 90px;
-    height:110px;
-    padding:1rem;
-    }
-    .log-lang select{
-      margin-top:30px;
+        width:110px;
+        height:130px;
     }
     .text-content{
         width:100%;
         height: 350px;
-        background-image: url("img/text-back.jpg");
+        background-image: url("text-back.jpg");
         background-size: cover;
     }
     .image-content{
         width:100%;
-        height: 350px;
-        background-color: black;
+        height: 360px;
+        
     }
     .slider-container img {
         width: 33.33%; /* Set to 100% divided by the number of images */
@@ -504,8 +501,8 @@ ul{
         background-size: cover;
         }
         .saty-mev-jayte{
-            width: 15%;
-            height: 50%;
+            width: 23%;
+            height: 85%;
             margin-right: 40px;
             }
             #text{
@@ -520,10 +517,24 @@ ul{
                  width:33%;
                  height: 25px;
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
-                font-size: 11px;
+                font-size: 7px;
+            }
+            .flex-outer{
+                height:33%;
+                
+               
+            }
+            .flex-outer1{
+                height:33%;
+                
+            }
+            .flex-outer2{
+                height:33%;
+                
             }
             .inner-available1 .main-div{
-                height: 100%;
+                height: 85%;
+                
             }
             .inner-available2 .main-div{
                 height: 85%;
@@ -536,12 +547,13 @@ ul{
                 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             }
             .price-vermicompost{
-                font-size: 10px;
+                font-size: 5.50px;
                 margin-left: 10px;
                 
             }
             .image1 img{
                 cursor: pointer;
+                height:80%
             }
             .map{
                 width: 100%;
@@ -553,7 +565,5 @@ ul{
                 width: 50%;
                 margin-bottom: 30px;
             }
-           #text{
-		   font-size:40px;
-	   }
+           
 }
