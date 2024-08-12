@@ -473,7 +473,7 @@ ul{
 @media(max-width:768px){
     .header{
 	    height:100px;
-	    background-color:black;
+	    
     }
     .content{
         flex-direction: column;
