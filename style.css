@@ -556,7 +556,8 @@ ul{
             }
             .image1 img{
                 cursor: pointer;
-                height:80%
+                height:80%;
+		
             }
             .map{
                 width: 100%;
