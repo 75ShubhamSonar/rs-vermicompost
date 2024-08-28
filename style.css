@@ -554,10 +554,13 @@ ul{
                 margin-left: 10px;
                 
             }
+	       
             .image1 img{
                 cursor: pointer;
-                height:80%;
-		width:100px;
+                width:50%;
+		height:50%;
+		background-color:black;
+		    
 		
             }
             .map{
