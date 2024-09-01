@@ -524,7 +524,7 @@ ul{
                 align-items: center;
                 justify-content: space-evenly;
                  width:33%;
-                 height: 25px;
+                 height: 17px;
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
                 font-size: 7px;
             }
@@ -560,7 +560,9 @@ ul{
                 margin-left: 10px;
                 
             }
-	       
+	    . image1{
+		    margin-top:-15px;
+	    }
             .image1 img{
                 cursor: pointer;
             }
