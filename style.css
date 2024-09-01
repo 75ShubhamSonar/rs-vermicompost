@@ -497,6 +497,12 @@ ul{
         height: 360px;
         
     }
+	.image-slider {
+    width: 100%;
+    overflow: hidden;
+    height: 22.5rem;
+    position: relative;
+    }
     .slider-container img {
         width: 33.33%; /* Set to 100% divided by the number of images */
         height: 400px;
