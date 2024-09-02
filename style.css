@@ -552,17 +552,17 @@ ul{
                 height: 85%;
             }
             .product-name{
-                font-size: 12px;
+                font-size: 10px;
                 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             }
             .price-vermicompost{
                 font-size: 5.50px;
                 margin-left: 10px;
-		
+		color:red;
                 
             }
 	    . image1{
-		    margin-top:-70px;
+		    margin-top:-110px;
 	    }
             .image1 img{
                 cursor: pointer;
